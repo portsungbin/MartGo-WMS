@@ -41,7 +41,7 @@ java -jar target/MartGO.jar
 - 임성빈(팀원) : 로그인, 회원가입
 
 ## 📂 프로젝트 구조
-```sh
+```shell
 📦 MartGo
  ┣ 📂 src
  ┃ ┣ 📂 common
@@ -59,3 +59,25 @@ java -jar target/MartGO.jar
 ```
 ## 📜 라이선스
 이 프로젝트는 신세계 I&C 6차수 3팀 전먹사에 의해 완성되었습니다.
+
+```java
+ public void delete() {
+        System.out.println("삭제할 아이디를 선택해주세요. ");
+        int id = scan.nextInt();
+        scan.nextLine();
+
+        svs.delete(id);
+
+        mainMenu();
+
+    }
+```
+
+|제목|특징|요소|
+|-|-|-|
+|1번|2번|3번|
+
+<hr>
+<a href="http://www.google.com">구글 방문</a>
+
+![구글방문](http://www.google.com)
