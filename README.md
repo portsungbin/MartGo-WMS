@@ -1,4 +1,4 @@
-# MartGO
+![image](https://github.com/user-attachments/assets/d85a017e-cd7e-4bf5-9ad2-ef0a4bb148c2)# MartGO
 
 ## 📌 프로젝트 개요
 - WMS(창고 관리 시스템)의 프로세스 학습 및 이해
@@ -27,7 +27,7 @@ git clone https://github.com/username/project-name.git
 cd MartGO
 java -jar target/MartGO.jar
 ```
-## db
+### 🛢️데이터베이스
 - src/Martgo 더미.sql
 - src/찐 최종 트리거.sql
 - src/최종 프로시저.sql
