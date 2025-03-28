@@ -27,6 +27,10 @@ git clone https://github.com/username/project-name.git
 cd MartGO
 java -jar target/MartGO.jar
 ```
+## db
+- src/Martgo 더미.sql
+- src/찐 최종 트리거.sql
+- src/최종 프로시저.sql
 
 ## 📝 기능
 - 회원가입 / 로그인 기능
