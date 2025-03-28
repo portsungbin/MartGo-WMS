@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d85a017e-cd7e-4bf5-9ad2-ef0a4bb148c2)# MartGO
-
 ## 📌 프로젝트 개요
 - WMS(창고 관리 시스템)의 프로세스 학습 및 이해
 - Java와 MySQL 연동 경험 (JDBC 사용)
